@@ -40,9 +40,9 @@ User:
     <td>Posistion at Employer</td>
     <td>Salary Range</td>
   </tr>
+  <tr>
     <td>Dates of Employment</td>
     <td>Time of Last Login</td>
-  <tr>
   </tr>
 </table>
 <br />
