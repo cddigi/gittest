@@ -80,19 +80,19 @@ All Users, Graduate Office, and the Administrator should have an always-visible 
 
 Users need the abilities to (1) choose whether their information is associated with survey responses in order to keep their responses anonymous, (2) access their account settings, and (3) in some way be able to opt-out of the following three categories of automated email that may be sent: All, Surveys, News.
 
-There must be a password reset option. The Administrator or Graduate Office can reset user passwords. Only the Administrator can reset Graduate Office Employee passwords.
+There must be a password reset option. The Administrator or Graduate Office can reset user passwords. Only the Administrator can reset Graduate Office account passwords.
 <br /><br /><hr />
 
 ### 2b. Giving Back
 
 Users have the ability to submit opportunities to give back or help North Central College in some way. Possible options include internships, guest speaking, mentoring, or some other non-monetary form of assistance.
 
-When this form is submitted, designated Graduate Office Employee accounts will receive a notification so that they can decide if they want to follow up with the User.
+When this form is submitted, designated Graduate Office accounts will receive a notification so that they can decide if they want to follow up with the User.
 <br /><br /><hr />
 
 ### 3. Surveys
 
-When Users first sign up, they will need to fill out an entry survey. When they have graduated, an exit survey will become available. A Graduate Office Employee will be able to view which Users have not completed specific surveys.
+When Users first sign up, they will need to fill out an entry survey. When they have graduated, an exit survey will become available. A Graduate Office account will be able to view which Users have not completed specific surveys.
 
 When a User logs into the system, a list of available surveys will be displayed.
 
@@ -101,7 +101,7 @@ Graduate Office accounts need to be able to create new surveys with the option t
 
 ### 4. Reports
 
-There needs to be the ability to create reports based on survey results and search queries with a number of preset options. There should also be the ability to create custom reports. The Graduate Office Employees should be able to export these reports into Excel spreadsheet format for easier viewing and management.
+There needs to be the ability to create reports based on survey results and search queries with a number of preset options. There should also be the ability to create custom reports. A Graduate Office account should be able to export these reports into Excel spreadsheet format for easier viewing and management.
 <br /><br /><hr />
 
 ### 5. Admin
