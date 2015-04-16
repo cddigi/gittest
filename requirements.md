@@ -83,14 +83,14 @@ There must be a password reset option. User passwords can be reset by Administra
 
 Users need the ability to submit opportunities to give back or help North Central College in some way. Possible options include internships, guest speaking, mentoring, or some other non-monetary form of assistance.
 
-When this form is submitted, designated Graduate Office Employees will receive a notification so that they can decide if they want to follow up with the form.
+When this form is submitted, designated Graduate Office Employees will receive a notification so that they can decide if they want to follow up with the User.
 <br /><br /><hr />
 
 ### 3. Surveys
 
-When Esers first sign log in they will need to fill out an entry survey. When they have graduated, an exit survey will become available. Graduate Office Employees will be able to track which users have not completed specific surveys. 
+When Users first sign log in they will need to fill out an entry survey. When they have graduated, an exit survey will become available. Graduate Office Employees will be able to track which Users have not completed specific surveys. 
 
-When a Eser logs into the system, a list of available surveys will be displayed. 
+When a User logs into the system, a list of available surveys will be displayed. 
 
 Graduate Office Employees need to be able to create new surveys with the option to make them available to certain groups of Users.
 <br /><br /><hr />
