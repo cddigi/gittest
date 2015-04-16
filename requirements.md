@@ -1,15 +1,16 @@
 # Requirements for Capstone Project
 ######Created by Victor Bashorun, Andrew Bockus, Cornelius Donley, and Tim Schneider
 <hr />
+
 ### 1. Login
 
-There must be a secure login interface that upon sign in, redirects the user to their respective interface depending on their account privileges: User, Graduate Office, or Administrator. 
+There must be a secure login interface that upon sign in, redirects the user to their respective interface depending on their account privileges: User, Graduate Office, or Administrator.
 <br /><br /><hr />
 
 ### 2a. Contact Information
-<br />
-User:
+
 <table>
+User:
   <tr>
     <td>Name</td>
     <td>Address</td>
@@ -37,7 +38,7 @@ User:
   <tr>
     <td>Current Employer</td>
     <td>Employer Address</td>
-    <td>Posistion at Employer</td>
+    <td>Position at Employer</td>
     <td>Salary Range</td>
   </tr>
   <tr>
@@ -73,45 +74,45 @@ Administrator:
   </tr>
 </table>
 <br />
-On each User page, the information should be displayed in three different sections: User Info, Employer Info, Surveys. 
+On each User page, the information should be displayed in three different sections: User Info, Employer Info, Surveys.
 
-All Users, Graduate Office, and the Administrator should have an always-visible navigation area that displays the different actions available to them. Only the Administrator will have the ability to add, update, and delete any account. A Graduate Office account can only add or update a User account. 
+All Users, Graduate Office, and the Administrator should have an always-visible navigation area that displays the different actions available to them. Only the Administrator will have the ability to add, update, and delete any account. A Graduate Office account can only add or update a User account.
 
-Users need the abilities to (1) choose whether their information is associated with survey responses in order to keep their responses anonymous, (2) access their account settings, and (3) in some way be able to opt-out of the following three categories of automated email that may be sent: All, Surveys, News. 
+Users need the abilities to (1) choose whether their information is associated with survey responses in order to keep their responses anonymous, (2) access their account settings, and (3) in some way be able to opt-out of the following three categories of automated email that may be sent: All, Surveys, News.
 
-There must be a password reset option. Administrator or Graduate Office can reset user passwords. Administrator can only reset Graduate Office password. 
+There must be a password reset option. The Administrator or Graduate Office can reset user passwords. Only the Administrator can reset Graduate Office Employee passwords.
 <br /><br /><hr />
 
 ### 2b. Giving Back
 
-Users have the ability to submit opportunities to give back or help North Central College in some way. Possible options include internships, guest speaking, mentoring, or some other non-monetary form of assistance. 
+Users have the ability to submit opportunities to give back or help North Central College in some way. Possible options include internships, guest speaking, mentoring, or some other non-monetary form of assistance.
 
-When this form is submitted, designated Graduate Office account will receive a notification so that they can decide if they want to follow up with the User. 
+When this form is submitted, designated Graduate Office Employee accounts will receive a notification so that they can decide if they want to follow up with the User.
 <br /><br /><hr />
 
 ### 3. Surveys
 
-When Users first sign up, they will need to fill out an entry survey. When they have graduated, an exit survey will become available. Graduate Office will be able to track which Users have not completed specific surveys. 
+When Users first sign up, they will need to fill out an entry survey. When they have graduated, an exit survey will become available. A Graduate Office Employee will be able to view which Users have not completed specific surveys.
 
-When a User logs into the system, a list of available surveys will be displayed. 
+When a User logs into the system, a list of available surveys will be displayed.
 
-Graduate Office accounts need to be able to create new surveys with the option to make them available to certain groups of Users. 
+Graduate Office accounts need to be able to create new surveys with the option to make them available to certain groups of Users.
 <br /><br /><hr />
 
 ### 4. Reports
 
-There needs be the ability to create reports based on survey results and search queries with a number of preset options, as well as the ability to create custom reports. These should be able to be exported into Excel spreadsheet format for easier viewing and management. 
+There needs to be the ability to create reports based on survey results and search queries with a number of preset options. There should also be the ability to create custom reports. The Graduate Office Employees should be able to export these reports into Excel spreadsheet format for easier viewing and management.
 <br /><br /><hr />
 
 ### 5. Admin
 
-The Administrator will be the only account that is able to create, update, or delete both Graduate Office and User accounts. 
+The Administrator will be the only account that is able to create, update, or delete both Graduate Office and User accounts.
 <br /><br /><hr />
 
 ### 6. Search & Saved Lists
 
 <strong>Graduate Office Employees:</strong><br />
-The Graduate Office has the ability to search through the database information by any of the information that a User has provided to their account. After a search has been completed, the Graduate Office should be able to save individual users to a Saved List. The information displayed in a search result should be limited to name, degree program, email, employer, graduation date, and any other fields the Graduate Office account used to search to not clutter the screen. The Saved Lists need to be exportable into an Excel spreadsheet, as well as exporting the emails for use in Groupwise. 
+The Graduate Office has the ability to search through the database information by any of the information that a User has provided to their account. After a search has been completed, the Graduate Office should be able to save individual users to a Saved List. The information displayed in a search result should be limited to name, degree program, email, employer, graduation date, and any other fields the Graduate Office account used to search to not clutter the screen. The Saved Lists need to be exportable into an Excel spreadsheet, along with their emails for use in sending group emails via Groupwise.
 
 <strong>Users:</strong><br />
-The User has the ability to search for other Users if they have opted-in to searches from other Users. Only basic fields such as name and degree should be shown. 
+The User has the ability to search for other Users if they have opted-in to searches from other Users. Only basic fields such as name and degree should be shown.
